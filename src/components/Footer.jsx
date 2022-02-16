@@ -2,7 +2,6 @@ import {
   Email,
   Facebook,
   Instagram,
-  MailOutline,
   Phone,
   Pinterest,
   Room,
@@ -90,10 +89,6 @@ const Info = styled.span`
   gap: 10px;
   margin-bottom: 10px;
 `;
-
-// const Phone = styled.span``
-
-// const Email = styled.span``
 
 const PaymentImage = styled.img`
   height: 20px;
